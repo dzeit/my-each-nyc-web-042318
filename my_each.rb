@@ -1,4 +1,3 @@
 def my_each(array)
-  array.map do |greeting|
-    
+  while array 
 end
